@@ -1,0 +1,6 @@
+include README.md
+include LICENSE.txt
+include requirements.txt
+include requirements-ci.txt
+include .coveragerc
+recursive-include sample/tests *
